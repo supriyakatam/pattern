@@ -1,7 +1,7 @@
 matrix:
   include:
     - language: c
-      sudo :false
+      sudo: false
       compiler:
         - clang
         - gcc
